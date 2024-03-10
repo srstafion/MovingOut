@@ -1,0 +1,240 @@
+﻿  Box.cpp
+  Button.cpp
+  Game.cpp
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(45,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(45,34): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(45,34): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(45,34): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(45,34): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(44,54): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(44,54): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(44,54): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(44,54): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(44,54): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,67): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,67): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,67): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,67): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,41): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,41): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,41): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(46,41): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,67): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,67): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,67): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,67): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,41): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,41): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,41): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(48,41): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,60): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,60): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,60): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,60): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,60): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,40): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,40): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,40): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(51,40): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(60,27): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(60,27): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(60,27): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(60,27): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(60,27): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(59,61): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(59,61): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(59,61): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(59,61): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(59,61): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,67): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,67): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,67): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,67): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,41): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,41): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,41): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(61,41): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,67): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,67): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,67): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,67): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,41): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,41): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,41): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(63,41): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,60): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,60): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,60): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,60): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,60): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,47): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,47): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,47): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(66,47): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(76,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(76,34): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(76,34): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(76,34): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(76,34): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(75,54): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(75,54): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(75,54): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(75,54): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(75,54): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,67): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,67): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,67): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,67): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,41): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,41): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,41): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(77,41): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,67): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,67): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,67): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,67): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,41): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,41): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,41): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(79,41): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,60): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,60): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,60): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,60): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,60): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,40): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,40): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,40): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(82,40): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(92,27): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(92,27): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(92,27): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(92,27): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(92,27): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(91,61): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(91,61): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(91,61): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(91,61): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(91,61): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,67): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,67): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,67): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,67): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,41): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,41): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,41): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(93,41): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,67): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,67): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,67): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,67): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,67): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,41): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,41): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,41): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,41): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(95,41): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,60): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,60): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,60): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,60): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,60): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,47): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,47): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,47): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,47): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(98,47): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(105,27): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(105,27): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(105,27): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(105,27): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(105,27): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(104,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(104,55): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(104,55): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(104,55): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(104,55): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,71): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,71): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,71): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,71): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,71): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,42): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,42): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,42): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(106,42): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,42): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,42): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,42): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,42): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,34): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,34): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,34): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(159,34): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,47): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,47): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,47): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,47): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,39): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,39): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,39): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(170,39): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(179,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,42): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,42): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,42): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,42): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,34): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,34): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,34): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(189,34): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,47): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,47): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,47): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,47): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,39): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,39): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,39): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Game.cpp(202,39): warning C4244:         ]
+  Map.cpp
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,69): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,69): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,69): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,69): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,69): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,54): warning C4244:         with
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,54): warning C4244:         [
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,54): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(17,54): warning C4244:         ]
+C:\Users\Denis pipis\source\repos\MovingOut\MovingOut\Map.cpp(13,4): warning C4065: switch statement contains 'default' but no 'case' labels
+  MovingOut.cpp
+  Player.cpp
+  Generating Code...
+  MovingOut.vcxproj -> C:\Users\Denis pipis\source\repos\MovingOut\x64\Debug\MovingOut.exe
